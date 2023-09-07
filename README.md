@@ -23,13 +23,10 @@
 
 - También me interesa el diseño de interfaces y la usabilidad, y estoy estudiando principios de UX/UI para mejorar la calidad de mis proyectos.
 
-### Cómo Contactarme
-
-Estoy emocionado por la oportunidad de aprender y colaborar en proyectos interesantes. Si tienes alguna pregunta, sugerencia o simplemente deseas conectarte conmigo, no dudes en enviarme un mensaje a través de [mi correo electrónico] o encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-nombre).
 
 ¡Gracias por visitar mi perfil de GitHub!
 
-## Proyectos *bombitas*
+## Proyectos *Personales*
 <table>
 <tr>
 <td width="50%">
@@ -41,7 +38,7 @@ Estoy emocionado por la oportunidad de aprender y colaborar en proyectos interes
 </a>
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p></p>
 </div>
                                                                                       
 </td>
@@ -59,7 +56,7 @@ Estoy emocionado por la oportunidad de aprender y colaborar en proyectos interes
 
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
