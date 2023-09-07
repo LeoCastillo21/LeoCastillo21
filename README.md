@@ -48,9 +48,9 @@ Estoy emocionado por la oportunidad de aprender y colaborar en proyectos interes
 
 <td width="50%">
                <br>
-<h3 align="center">AneyeonPets</h3>
+<h3 align="center">SGE</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="Logo_Final-removebg-preview.jpg" width="200px" height="200px" margin-bottom="10px" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="SEG.png" width="200px" height="200px" margin-bottom="10px" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 
